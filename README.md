@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inflixop&show_icons=true&theme=dark&locale=en" alt="inflixop" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inflixop&theme=dark" alt="inflixop" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=inflixop&theme=dark](https://streak-stats.demolab.com/?user=InflixOP&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="inflixop" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=InflixOP&theme=dark&hide_border=true)](https://git.io/streak-stats)

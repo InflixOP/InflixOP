@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Saxena</h1>
 <h3 align="center">Diving deep into the realms of code, I am a relentless hustler and developer, weaving lines of logic to bring ideas to life....Here you will find my projects and my contributions in open source world.</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Data Structures and Alogrithms**
 
 - 📫 How to reach me **saxenaanubhav1204@gmail.com**
 

@@ -9,7 +9,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link](https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inflixop&label=Profile%20views&color=0e75b6&style=flat" alt="inflixop" /> </p>
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/anubhav0_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav0_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav-saxena-84438a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-saxena-84438a249" height="30" width="40" /></a>

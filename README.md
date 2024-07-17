@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhav Saxena</h1>
 <h3 align="center">Diving deep into the realms of code, I am a relentless hustler and developer, weaving lines of logic to bring ideas to life....Here you will find my projects and my contributions in open source world.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inflixop&label=Profile%20views&color=0e75b6&style=flat" alt="inflixop" /> </p>
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://code-wanderer.netlify.app/](https://code-wanderer.netlify.app/)
@@ -9,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link](https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inflixop&label=Profile%20views&color=0e75b6&style=flat" alt="inflixop" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 

@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://code-wanderer.netlify.app/](https://code-wanderer.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://code-wanderer.netlify.app/)
 
 - 📫 How to reach me **saxenaanubhav1204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link](https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link)
 
 
 

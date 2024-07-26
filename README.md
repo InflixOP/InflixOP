@@ -19,7 +19,7 @@
 <a href="https://twitter.com/anubhav0_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav0_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anubhav-saxena-84438a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-saxena-84438a249" height="30" width="40" /></a>
 <a href="https://instagram.com/anubhav_0.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav_0.7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/inflixop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/inflixop/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/inflixop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/inflixop/" height="30" width="40" /></a>
 <a href="https://discord.gg/e3yPG9b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="e3yPG9b6" height="30" width="40" /></a>
 </p>
 

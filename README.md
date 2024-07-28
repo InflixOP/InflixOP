@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saxenaanubhav1204@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F9O6qr0DX-Rt9J5TRtgvHfDHZiKCWO--/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F6u5ZpGJvJhKrYkLAreU4MQug3_ogR73/view?usp=sharing)
 
 
 

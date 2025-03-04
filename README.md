@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FFFD0&height=70&section=header"/>
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&width=435&lines=%F0%9F%9A%80+Hey%2C+I'm+Anubhav+ !;%F0%9F%9B%A0%EF%B8%8F++AI+%7C+ML+%7C+Blockchain+Developer;%F0%9F%94%A5+Building%2C+Learning%2C+Exploring++" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hey%2C+I'm+Anubhav+ !;%F0%9F%9B%A0%EF%B8%8F++AI+%7C+ML+%7C+Blockchain+Developer;%F0%9F%94%A5+Building%2C+Learning%2C+Exploring++" alt="Typing SVG">
   </a>
-</p>
+</div>
 
 <h3 align="center">Diving deep into the realms of code, I am a relentless hustler and developer, weaving lines of logic to bring ideas to life....Here you will find my projects and my contributions in open source world.</h3>
 
@@ -47,10 +47,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/inflixop/inflixop/output/github-snake.svg" />
 </picture>
 <br/>
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&width=435&lines=Thank+you+for+Visiting+!;Have+a+Good+Day+!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=26&letterSpacing=1px&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting+!;Have+a+Good+Day+!" alt="Typing SVG">
   </a>
-</p>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FFFD0&height=70&section=footer"/>
